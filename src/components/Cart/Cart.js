@@ -2,7 +2,7 @@ import './Cart.css';
 
 
 const Cart = (props) => {
-    const { cart, handleAddToCart } = props;
+    const { cart } = props;
 
     return (
         <div className="cart">
