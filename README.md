@@ -1,3 +1,7 @@
+Website Name: Ultimate Gadgets Shop
+
+Live URL: https://tranquil-blancmange-6b3e62.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
